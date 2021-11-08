@@ -1,6 +1,5 @@
 # Denis Tumakov
-
-_Python enthusiast based in Netanya, Israel_ <br>
+<br>
 
 
 [Email](mailto:dmarshaltu@gmail.com) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/dm2macoff/)
