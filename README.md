@@ -1,4 +1,4 @@
-# Carolyn Stransky
+# Denis Tumakov
 
 _Python enthusiast based in Netanya, Israel_ <br>
 
