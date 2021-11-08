@@ -2,7 +2,7 @@
 <br>
 
 
-[Email](mailto:dmarshaltu@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dm2macoff/) / [GitHub](https://github.com/dm2macoff/)
+[Email](mailto:dmarshaltu@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dm2macoff/) / [GitHub](https://github.com/DmarshalTU/)
 
 ## 💬 Languages
 
