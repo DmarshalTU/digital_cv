@@ -51,7 +51,7 @@ Brigade Intelligence NCO
   - Git
   
 **Cloud:**<br>
-  - AWS
+  - AWS, Azure
   - Kubernetes
   - Ansible
   - Jenkins
