@@ -15,8 +15,6 @@
 
 **DevOps** @ CodeWizard _(Present)_ <br>
 
-
-  - **_Technologies used:_** Python, JavaScript, HTML, CSS.
 <br><br>
 
 **Python Developer** @ Freelance _(2020 - Present)_ <br>
