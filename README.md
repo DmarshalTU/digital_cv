@@ -68,13 +68,13 @@ Brigade Intelligence NCO
 [Wave Academy](https://www.waveacademy.co.il/) _(2021)_
 
 **ORT Colleges Computer Programming Engineer's degree** C# C# & focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Netanya, Israel _(2019 - 2021)_ <br>
+[ORT Hermelin](http://www.hermelin.ort.org.il/) - Netanya, Israel _(2019 - 2021)_ <br>
 
 **Python Pro Bootcamp**<br>
-[App Brewery](https://www.udemy.com/course/100-days-of-code/) _(2021)_
+[App Brewery](https://www.linkedin.com/company/london-app-brewery/about/) _(2021)_
 
 **The Complete Ethical Hacking Bootcamp**<br>
-[American University](https://www.udemy.com/course/the-complete-ethical-hacking-bootcamp/) _(2020)_
+[American University](https://hackersploit.academy/) _(2020)_
 
 **KERNELiOS Certified Ethical Hacker (CEH)**<br>
 [KERNELiOS](https://www.kernelios.com/) - Rishon Le Tzion, Israel _(2019)_
