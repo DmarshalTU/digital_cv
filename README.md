@@ -14,6 +14,7 @@
 ## 👩🏼‍💻 Technical Experience
 
 **DevOps** @ CodeWizard _(Present)_ <br>
+  - DevOps Engineer
 
 <br><br>
 
