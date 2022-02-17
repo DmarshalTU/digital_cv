@@ -30,6 +30,9 @@ Create automation software for clients
 **Tier 3 Support Engineer** @ [NetSpark Mobile ](https://www.netsparkmobile.com/en/) _(2019)_ <br>
  Providing technical support to buisiness costumers world wide and developers team
   - QA of application releases
+  - IT support
+  - Costumer Support
+_
 <br><br>
 
 **Police officer** @ Israel Police _(2015 - 2018)_ <br>
@@ -42,20 +45,20 @@ Brigade Intelligence NCO
 ## 💻 Technical Abilities
 
 **Programming Languages:**<br>
+  - Python
   - C#
   - JavaScript
-  - Python
   - HTML/CSS/JS
 
 **Work Environments:**<br>
-  - Linux
+  - Linux, OSX, Windows
   - VS Code / PyCharm / VIM
   
 **Source Control:**<br>
   - Git
   
 **Cloud:**<br>
-  - AWS, Azure
+  - AWS, Azure DevOps, GCP
   - Kubernetes
   - Ansible
   - Jenkins
