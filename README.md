@@ -59,7 +59,6 @@ Create automation software for clients
   - QA of application releases
   - IT support
   - Costumer Support
-_
 <br><br>
 
 **Police officer** @ Israel Police _(2015 - 2018)_ <br>
