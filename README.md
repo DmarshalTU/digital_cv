@@ -96,7 +96,7 @@ Brigade Intelligence NCO
 **DevOps Course**<br>
 [Wave Academy](https://www.waveacademy.co.il/) _(2021)_
 
-**ORT Colleges Computer Programming Engineer's degree** C# C# & focused on full-stack JavaScript<br>
+**ORT Colleges Computer Programming Engineer's degree** C# & focused on full-stack JavaScript<br>
 [ORT Hermelin](http://www.hermelin.ort.org.il/) - Netanya, Israel _(2019 - 2021)_ <br>
 
 **Python Pro Bootcamp**<br>
