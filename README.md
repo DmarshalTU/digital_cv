@@ -14,7 +14,34 @@
 ## 👩🏼‍💻 Technical Experience
 
 **DevOps** @ CodeWizard _(Present)_ <br>
-  - DevOps Engineer
+  - DevOps Engineer 
+  -  Leading projects, Involved in DevOps   
+    migration/automation processes for designing, building   
+    deploying & maintaining systems. 
+  -  Create and maintain documentation of deployment plans, 
+    test plans, infrastructure diagrams' technical 
+    documentation, and more.
+  -  Troubleshooting, identifying root cause for issues, 
+    investigating, fixing, and implementing permanent 
+    corrective actions for incidents.
+  -  Working with cloud providers like AWS, Azure.
+  -  Designing and implementing CI/CD process end to end
+  -  Building automated process & environment for DEV, QA, 
+    production.
+  -  Working with tools like Terraform, Jenkins, Ansible, 
+    AzureDevOps, and more.
+  - Jenkins administration when required, designing and 
+    implementing projects/builds/automation, and 
+    debugging build problems.
+  - Experienced  K8S developer, Designing & deploying 
+    microservices-based multi-tiered applications to 
+    private/public Kubernetes clusters 
+  - Working on Standardizing Build & Deployment method. 
+  - Leading creating new environments for a variety of 
+    environment(s).
+  - Experienced Python developer and different scripting  
+    languages.
+
 
 <br><br>
 
