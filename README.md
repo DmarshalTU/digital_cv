@@ -14,7 +14,6 @@
 ## 👩🏼‍💻 Technical Experience
 
 **DevOps** @ CodeWizard _(Present)_ <br>
-  - DevOps Engineer 
   -  Leading projects, Involved in DevOps   
     migration/automation processes for designing, building   
     deploying & maintaining systems. 
