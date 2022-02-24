@@ -78,7 +78,7 @@ Brigade Intelligence NCO
 [App Brewery](https://www.linkedin.com/company/london-app-brewery/about/) _(2021)_
 
 **The Complete Ethical Hacking Bootcamp**<br>
-[American University](https://hackersploit.academy/) _(2020)_
+[$HACKERSPLOIT](https://hackersploit.academy/) _(2020)_
 
 **KERNELiOS Certified Ethical Hacker (CEH)**<br>
 [KERNELiOS](https://www.kernelios.com/) - Rishon Le Tzion, Israel _(2019)_
