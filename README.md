@@ -23,10 +23,10 @@
   -  Troubleshooting, identifying root cause for issues, 
     investigating, fixing, and implementing permanent 
     corrective actions for incidents.
-  -  Working with cloud providers like AWS, Azure.
+  -  Working with cloud providers AWS, Azure, GCP and more
   -  Designing and implementing CI/CD process end to end
   -  Building automated process & environment for DEV, QA, 
-    production.
+    PROD.
   -  Working with tools like Terraform, Jenkins, Ansible, 
     AzureDevOps, and more.
   - Jenkins administration when required, designing and 
@@ -35,11 +35,8 @@
   - Experienced  K8S developer, Designing & deploying 
     microservices-based multi-tiered applications to 
     private/public Kubernetes clusters 
-  - Working on Standardizing Build & Deployment method. 
-  - Leading creating new environments for a variety of 
-    environment(s).
-  - Experienced Python developer and different scripting  
-    languages.
+  - Working on Standardizing Build & Deployment method
+  - Experienced Python developer
 
 
 <br><br>
